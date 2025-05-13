@@ -84,7 +84,7 @@ This bot comes fully loaded with essential tools for WhatsApp automation, modera
 ## Installation & Setup ⚙️
 
 ```bash
-git clone https://github.com/Danscot/senku-xmd/
+git clone https://github.com/cabrin21/Killua-xmd.git
 cd your-bot-repo
 npm install
 node index.js
@@ -101,6 +101,6 @@ node index.js
 
 ## Connect with me 👤
 > Made with ❤️ by *Cabrino Killua 🍷*
-> Github: https://github.com/Danscot/senku-xmd/
+> Github: https://github.com/cabrin21/Killua-xmd.git
 
 ---
