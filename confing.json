@@ -1,0 +1,33 @@
+{
+  "users": {
+    "0": {
+      "sudoList": [],
+      "tagAudioPath": "tag.mp3",
+      "antilink": false,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "🍷"
+    },
+    "243975084413": {
+      "sudoList": [],
+      "tagAudioPath": "tag.mp3",
+      "antilink": false,
+      "response": false,
+      "autoreact": false,
+      "prefix": [],
+      "reaction": "🌹"
+    },
+    "243975074413": {
+      "sudoList": [],
+      "tagAudioPath": "tag.mp3",
+      "antilink": false,
+      "response": true,
+      "autoreact": false,
+      "prefix": [
+        "❤️"
+      ],
+      "reaction": "🌹"
+    }
+  }
+}
